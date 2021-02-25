@@ -1,0 +1,43 @@
+﻿  HM Var.cpp
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.h(33,2): warning C4091: 'typedef ': ignored on left of 'Var' when no variable is declared
+  Var.cpp
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.h(33,2): warning C4091: 'typedef ': ignored on left of 'Var' when no variable is declared
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(69,12): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(121,12): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(173,12): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(225,12): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(277,12): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(329,12): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(393,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(400,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(458,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(465,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(556,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(563,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(655,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(662,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(723,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(730,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(773,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(780,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(871,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(878,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(970,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(977,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(237): warning C4715: 'Var::operator>=': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(81): warning C4715: 'Var::operator<': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(133): warning C4715: 'Var::operator<=': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(185): warning C4715: 'Var::operator>': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(289): warning C4715: 'Var::operator==': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(341): warning C4715: 'Var::operator!=': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(474): warning C4715: 'Var::operator-': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(409): warning C4715: 'Var::operator+': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(572): warning C4715: 'Var::operator*': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(671): warning C4715: 'Var::operator/': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(739): warning C4715: 'Var::operator+=': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(789): warning C4715: 'Var::operator-=': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(1005): warning C4715: 'operator<<': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(887): warning C4715: 'Var::operator*=': not all control paths return a value
+C:\Users\tlvla\source\repos\HM Var\HM Var\Var.cpp(986): warning C4715: 'Var::operator/=': not all control paths return a value
+  HM Var.vcxproj -> C:\Users\tlvla\source\repos\HM Var\Debug\HM Var.exe
